@@ -24,8 +24,19 @@ body{
 
 .bg-page{
     height: 100vh;
-    background-color: #FF0000;
     align-items: center;
+}
+
+#page-one{
+    background-color: #FF0000;
+}
+
+#page-two{
+    background-color: #008000;
+}
+
+#page-three{
+    background-color: #FFFF00;
 }
 
 .shoes{
@@ -36,5 +47,12 @@ body{
 
 h1{
     font-size: 60px;
-    color: #FFFF00;
+}
+
+.yellow{
+    color: #FFFF00
+}
+
+.green{
+    color: #008000;
 }
