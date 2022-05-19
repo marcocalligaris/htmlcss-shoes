@@ -9,6 +9,10 @@
 green #008000
 yellow #FFFF00 */
 
+html{
+    overflow-y: hidden;
+}
+
 body{
     font-family: 'Rubik Mono One', sans-serif;
 }
