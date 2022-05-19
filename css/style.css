@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Colors */
+/* red #FF0000
+green #008000
+yellow #FFFF00 */
+
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.bg-page{
+    height: 100vh;
+    background-color: #FF0000;
+    align-items: center;
+}
+
+.shoes{
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    font-size: 60px;
+    color: #FFFF00;
+}
